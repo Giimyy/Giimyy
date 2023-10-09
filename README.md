@@ -3,10 +3,6 @@
 - 🌱 I’m currently learning Next.js, Three,js
 - 📫 U can contact me on my e-mail: sergiulive2007@yahoo.com
 
-## Subheader
-
-Watch this!
-Bla Bla bla
 
 <!---
 Giimyy/Giimyy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
