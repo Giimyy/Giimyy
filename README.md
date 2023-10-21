@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Giimyy
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning Next.js, Three,js
-- 📫 U can contact me on my e-mail: sergiulive2007@yahoo.com
+- 📫 You can contact me on my e-mail: sergiulive2007@yahoo.com
 
 
 <!---
