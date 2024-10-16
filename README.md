@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Giimyy
-- 👀 I’m interested in Web Development
+- 👀 I’m working in Web Development
 - 🌱 I’m currently learning Next.js, Three,js
 - 📫 You can contact me on my e-mail: sergiulive2007@yahoo.com
 
